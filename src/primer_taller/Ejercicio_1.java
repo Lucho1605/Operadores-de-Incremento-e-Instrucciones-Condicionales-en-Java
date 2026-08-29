@@ -44,6 +44,6 @@ public class Ejercicio_1 {
             des= subt*0.2;
         }
         tot= subt-des; 
-        System.out.println("el total: "+tot);
+        System.out.println("el toal: "+tot);
     }
 }
